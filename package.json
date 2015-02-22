@@ -4,7 +4,7 @@
   "description": "transparently require() jsx from node",
   "main": "index.js",
   "dependencies": {
-    "react-tools": "^0.12.1"
+    "react-tools": "git://github.com/facebook/react#a30e25467dfb42f586e1a7e401de07d9e88c59e4"
   },
   "devDependencies": {
     "jasmine-node": "1.12.0"
